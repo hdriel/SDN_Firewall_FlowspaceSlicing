@@ -18,7 +18,7 @@ There is a file in the project that explains how to run the task row by line to 
 <div>
 <img src="https://profile.fcdn.co.il/images2/0__05b01c0be868e2.jpg" width="500" style="padding:1px;border:1px solid #021a40;background-color:#FFF;"> 
 
-<img src="https://profile.fcdn.co.il/images2/0__05b01c0d9040b9.jpg" width="500" style="padding:1px;border:1px solid #021a40;background-color:#FFF;"> 
+<img src="https://profile.fcdn.co.il/images2/0__05b01c1bb9f97d.jpg" width="500" style="padding:1px;border:1px solid #021a40;background-color:#FFF;"> 
 
 <img src="https://profile.fcdn.co.il/images2/0__05b01c0e8cdab9.jpg" width="500" style="padding:1px;border:1px solid #021a40;background-color:#FFF;"> 
 </div>
