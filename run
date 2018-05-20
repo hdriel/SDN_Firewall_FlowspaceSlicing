@@ -1,0 +1,2 @@
+gnome-terminal -x sh -c "sudo python ./pox/mininetSlice.py;bash;sudo mn -c"
+cd ~/pox;./run_custom_controller;

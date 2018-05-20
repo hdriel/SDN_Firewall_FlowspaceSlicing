@@ -1,0 +1,2 @@
+./pox.py controller log.level --WARNING
+
